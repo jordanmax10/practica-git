@@ -2,6 +2,5 @@
 
 Contenido de git y github
 
-
 prueba del git pull
-probando el git pull
+
